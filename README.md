@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m currently studying on biology
+My currently major is biology and I'm learning Mechine Learning now.
 <!--
 **XMU-CYH/XMU-CYH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
